@@ -2307,9 +2307,9 @@
                 "DOTA_Tooltip_gauntlet_bonus_soul"      "Soul Collected"
                 "DOTA_Tooltip_gauntlet_bonus_soul_Description"      "Each soul increase attack range by 50"
                 
-                "DOTA_Tooltip_ability_item_KittehAmulet"					"Kitteh's Amulet of Spell Haste and stuff!"
-                "DOTA_Tooltip_ability_item_KittehAmulet_Description"				"<font color='#700000'>Mew! - Iz Blinkfresher. Blinking to a point plus refreshing everything. Also leaves an OP illusion behind!</font> \n<font color='#8e1212'>:3 Much stats, very healz. Muh castah everything!</font>\n<font color='#8e1212'>For ze lil Kitteh only. If you see this, you are probably in a kappa game with her.</font>"
-                "DOTA_Tooltip_ability_item_KittehAmulet_Lore"                                   "There's no kill like overkill!"
+                "DOTA_Tooltip_ability_item_kitteh_amulet"					"Kitteh's Amulet of Spell Haste and stuff!"
+                "DOTA_Tooltip_ability_item_kitteh_amulet_Description"				"<font color='#700000'>Mew! - Iz Blinkfresher. Blinking to a point plus refreshing everything. Also leaves an OP illusion behind!</font> \n<font color='#8e1212'>:3 Much stats, very healz. Muh castah everything!</font>\n<font color='#8e1212'>For ze lil Kitteh only. If you see this, you are probably in a kappa game with her.</font>"
+                "DOTA_Tooltip_ability_item_kitteh_amulet_Lore"                                   "There's no kill like overkill!"
         }
 }
 

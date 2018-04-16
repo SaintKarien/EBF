@@ -1,5 +1,5 @@
-item_KittehAmulet = class({})
-LinkLuaModifier( "modifier_item_kitteh_amulet_passive", "lua_item/item_KittehAmulet.lua" ,LUA_MODIFIER_MOTION_NONE )
+item_kitteh_amulet = class({})
+LinkLuaModifier( "modifier_item_kitteh_amulet_passive", "lua_item/item_kitteh_amulet.lua" ,LUA_MODIFIER_MOTION_NONE )
 
 function item_kitteh_amulet:OnSpellStart()
 	local caster = self:GetCaster()

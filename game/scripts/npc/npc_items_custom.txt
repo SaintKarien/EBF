@@ -1,4 +1,4 @@
-#base "items/item_kitteh_amulet.txt"
+#base "itemz/item_kitteh_amulet.txt"
 
 "DOTAAbilities"
 {

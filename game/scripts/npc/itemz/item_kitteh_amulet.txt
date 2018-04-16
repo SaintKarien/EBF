@@ -26,3 +26,4 @@
 			"particle"	"particles/items3_fx/octarine_core_lifesteal.vpcf"
 		}
 		"AbilityCooldown"				"5"
+	}

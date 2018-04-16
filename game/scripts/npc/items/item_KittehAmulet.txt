@@ -5,8 +5,8 @@
 		"ID"							"131313"														// unique ID number for this item.  Do not change this once established or it will invalidate collected stats.
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_POINT| DOTA_ABILITY_BEHAVIOR_IMMEDIATE"
 		"BaseClass"						"item_lua"
-		"ScriptFile"					"items/item_kitteh_amulet"
-		"AbilityTextureName"			"custom/longclaws_amulet"
+		"ScriptFile"					"lua_item/item_kitteh_amulet"
+		"AbilityTextureName"			"items/lunar_crest"
 		"ItemKillable"					"1"
 		"ItemSellable"					"0"
 		"ItemDroppable"					"1"
